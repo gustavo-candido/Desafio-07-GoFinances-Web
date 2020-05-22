@@ -28,10 +28,10 @@ Just type `yarn start`
 ## :checkered_flag: Goals ##
 
 <p align="center"> 
-<img src="https://github.com/gustavo-candido/Desafio-07-GoFinances-Web/blob/master/go-finances-preview.gif">
+<img  width=640  height=360 src="https://github.com/gustavo-candido/Desafio-07-GoFinances-Web/blob/master/go-finances-preview.gif">
 </p>
 
 
 <p align="center"> 
-<img src="https://github.com/gustavo-candido/Desafio-07-GoFinances-Web/blob/master/Screenshot%20from%202020-05-21%2010-48-19.png">
+<img  width=640  height=360 src="https://github.com/gustavo-candido/Desafio-07-GoFinances-Web/blob/master/Screenshot%20from%202020-05-21%2010-48-19.png">
 </p>
